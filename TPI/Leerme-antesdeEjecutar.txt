@@ -1,0 +1,12 @@
+Disculpe no llegue a terminal al 100% todo lo que pedia el enunciando ,me falto listar el tecnico
+con mayor incidentes dado un dia y falto el crud de Tecnicos,pero el crud de Tecnicos es igual al
+de clientes (y eso si llego a hacerlo).
+
+Realmente no llegue por que quiso hacer el trabajo como realmente se debia,aplicando todo lo aprendido
+Hibernate,lombok,maven,y un poco de programacion funcional.
+
+ademas de que hice las 7 tablas en vez de 4 ,lo cual me llevo mas tiempo y alfinal me quedo corto
+con el tiempo.
+
+Muchas gracias por lo enseñado.
+Santiago Perez Kay
