@@ -7,7 +7,7 @@
 
 Este proyecto implementa un Sistema de Reporte de Incidentes para una empresa de soporte operativo que brinda servicios sobre diversas aplicaciones y sistemas operativos. El sistema permite gestionar incidentes desde su reporte hasta su resolución, involucrando a áreas como RRHH, Comercial y Mesa de Ayuda.
 
-#### [<<<Enunciado del Trabajo Practico Final>>>](https://github.com/SantiagoPerezKay/Manejo_Incidentes_TP_UTN/blob/main/JAVA%20-%20Consigna%20Trabajo%20Pr%C3%A1ctico%20Integrador_.pdf)
+#### [Trabajo Practico Final](https://github.com/SantiagoPerezKay/Manejo_Incidentes_TP_UTN/blob/main/JAVA%20-%20Consigna%20Trabajo%20Pr%C3%A1ctico%20Integrador_.pdf)
 
 ### Tecnologías Utilizadas
 
